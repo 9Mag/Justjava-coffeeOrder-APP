@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">just java</string>
+
+    <!-- Header text for the list of Toppings [CHAR LIMIT = 20]    -->
+    <string name="toppings">Toppings</string>
+
+    <!--Thank you message for the ordr summary -->
+    <string name="thank_you">Thank you!</string>
+    
+</resources>
